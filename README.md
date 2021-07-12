@@ -24,7 +24,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Lanches Cyoress test suite.
 
 
-############
+############\
+
 To install project dependencies: npm install\
 To run the server: npm start\
 To view application visit 'http://localhost:3000'\
